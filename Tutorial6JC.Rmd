@@ -30,3 +30,9 @@ geom_point() grid.arrange(p1, p2)
 # Creating a data frame
 ```
 
+
+```{r}
+[image]
+
+```
+
